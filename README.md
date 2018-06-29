@@ -8,7 +8,7 @@ Tecnologias Utilizadas:
 - Bootstrap(Framework Front End)
 - JavaScript(Fron End)
 - Atom(Text Editor)
-- Mysql(Banco de Dados)
-- Servidor(Wamp)
--
+- Mysql Workbench(SGBD)
+- Wamp(Servidor de Desenvolvimento)
+
 
