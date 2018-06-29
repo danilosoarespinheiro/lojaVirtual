@@ -10,5 +10,6 @@ Tecnologias Utilizadas:
 - Atom(Text Editor) - https://atom.io/;
 - Mysql Workbench(SGBD) - https://www.mysql.com/products/workbench/;
 - Wamp(Servidor de Desenvolvimento) - http://www.wampserver.com/en/;
+- Trello (Provisionamento do App) - https://trello.com/invite/b/oIzdXoKq/25f1a8947d7be274be96ff0894f7b213/loja-virtual;
 
 
