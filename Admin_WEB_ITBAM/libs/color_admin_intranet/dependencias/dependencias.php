@@ -36,7 +36,7 @@
 	<!-- ================== END PAGE LEVEL STYLE ================== -->
 
   <!-- ================== Begin Select 2 ================== -->
-  
+
   <link href="../../../libs/color_admin_intranet/assets/plugins/bootstrap-select/bootstrap-select.min.css" rel="stylesheet" />
   <!-- ================== END Select 2 ================== -->
 
@@ -116,7 +116,7 @@
 	<!-- ================== END PAGE LEVEL JS ================== -->
 
   <!-- ================== BEGIN Select 2 ================== -->
-  <script src="../../../libs/color_admin_intranet/assets/plugins/select2/dist/js/select2.js"></script>
+
   <script src="../../../libs/color_admin_intranet/assets/plugins/bootstrap-select/bootstrap-select.min.js"></script>
   <!-- ================== END Select 2 ================== -->
 
