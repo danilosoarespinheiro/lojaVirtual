@@ -36,7 +36,7 @@
 	<!-- ================== END PAGE LEVEL STYLE ================== -->
 
   <!-- ================== Begin Select 2 ================== -->
-  <link href="../../../libs/color_admin_intranet/assets/plugins/select2/dist/css/select2.css" rel="stylesheet" />
+  
   <link href="../../../libs/color_admin_intranet/assets/plugins/bootstrap-select/bootstrap-select.min.css" rel="stylesheet" />
   <!-- ================== END Select 2 ================== -->
 
