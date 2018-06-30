@@ -12,4 +12,13 @@ Tecnologias Utilizadas:
 - Wamp(Servidor de Desenvolvimento) - http://www.wampserver.com/en/;
 - Trello (Provisionamento do App) - https://trello.com/invite/b/oIzdXoKq/25f1a8947d7be274be96ff0894f7b213/loja-virtual;
 
+Intruções de Configuração
+- Para configuração do banco de dados abra o SGBD MySql Workbench -> servidores -> importar dados
+- Para utilizar o crud copie a pasta Admin_WEB_ITBAM para a pasta htdocs ou www do seu servidor.
+
+Observações
+- o projeto possui 2 modelos
+1 - todo o crud em uma página
+2 - crud separado por página
+
 
