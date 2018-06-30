@@ -4,7 +4,7 @@
   <link href="../../../libs/color_admin_intranet/assets/plugins/jquery-ui/themes/base/minified/jquery-ui.min.css" rel="stylesheet" />
   <link href="../../../libs/color_admin_intranet/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 	<link href="../../../libs/color_admin_intranet/assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
-
+  <link href="../../../libs/color_admin_intranet/assets/plugins/ionicons/css/ionicons.min.css"  rel="stylesheet" />
   <link href="../../../libs/color_admin_intranet/assets/css/animate.min.css" rel="stylesheet" />
 	<link href="../../../libs/color_admin_intranet/assets/css/style.css" rel="stylesheet" />
 	<link href="../../../libs/color_admin_intranet/assets/css/style-responsive.min.css" rel="stylesheet" />
