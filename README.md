@@ -21,4 +21,9 @@ Observações
 1 - todo o crud em uma página
 2 - crud separado por página
 
+\libs\color_admin_intranet\database\connectMYSQL.class.php -> classe de conexão com o banco;
+\libs\color_admin_intranet\assets -> Dependências do projeto;
+
+Tela inicial - http://localhost/Admin_WEB_ITBAM/index.php
+
 
